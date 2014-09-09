@@ -1,0 +1,108 @@
+Cmp-Mod V01 Created by Cvpcb (2014-09-08 BZR 5122)-product   date = 09/09/2014 10:13:51
+
+BeginCmp
+TimeStamp = /540E7838/540E8D92;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E7838/540F2F1E;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E7838/540E8B06;
+Reference = C3;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E7838/540F2AB3;
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E7838/540E91CF;
+Reference = F1;
+ValeurCmp = 500mA;
+IdModule  = Capacitors_SMD:c_1812;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E7838/540F28C4;
+Reference = L1;
+ValeurCmp = Ferrite Bead;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E7838/540E7D81;
+Reference = P1;
+ValeurCmp = CONN_02X03;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E7838/540E8F04;
+Reference = R1;
+ValeurCmp = 22;
+IdModule  = Capacitors_SMD:c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E7838/540E8EB2;
+Reference = R2;
+ValeurCmp = 22;
+IdModule  = Capacitors_SMD:c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E7838/540E83F6;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = Capacitors_SMD:c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E7838/540E7B32;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = Capacitors_SMD:c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E7838/540E78F9;
+Reference = U1;
+ValeurCmp = ATMEGA32U4-A;
+IdModule  = SMD_Packages:TQFP-44;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E7838/540E8C34;
+Reference = VR1;
+ValeurCmp = VR;
+IdModule  = Capacitors_SMD:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E7838/540E8BEA;
+Reference = VR2;
+ValeurCmp = VR;
+IdModule  = Capacitors_SMD:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E7838/540E8FA1;
+Reference = X1;
+ValeurCmp = 16MHz;
+IdModule  = ReflowToaster:AVX_PBRC-H;
+EndCmp
+
+EndListe
