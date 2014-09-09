@@ -1,6 +1,6 @@
 EESchema Schematic File Version 2
+LIBS:ReflowToaster
 LIBS:power
-LIBS:device_fixed
 LIBS:device
 LIBS:transistors
 LIBS:conn
