@@ -4,6 +4,12 @@ $CMP CER_RES
 D Ceramic Resonator
 $ENDCMP
 #
+$CMP MCP1700T-3302E/TT
+D Low Quiescent Current LDO
+K regulator,ldo
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21826b.pdf
+$ENDCMP
+#
 $CMP R
 D Resistor
 K R DEV
