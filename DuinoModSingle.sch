@@ -1,35 +1,9 @@
 EESchema Schematic File Version 2
-LIBS:ReflowToaster
-LIBS:power
-LIBS:device
 LIBS:transistors
+LIBS:ReflowToaster
+LIBS:device
 LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:special
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
+LIBS:power
 LIBS:ReflowToaster-cache
 EELAYER 24 0
 EELAYER END
@@ -836,7 +810,7 @@ Text HLabel 1650 4550 3    60   Output ~ 0
 +3.3V
 Text HLabel 1800 4550 3    60   Output ~ 0
 +5V
-Text HLabel 1950 4400 1    60   Output ~ 0
+Text HLabel 1950 4400 1    60   UnSpc ~ 0
 GND
 Wire Wire Line
 	1950 4400 1950 4500

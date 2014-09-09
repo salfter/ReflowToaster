@@ -1,4 +1,4 @@
-update=09/09/2014 13:44:21
+update=09/09/2014 15:10:55
 version=1
 last_client=eeschema
 [cvpcb]
@@ -29,13 +29,10 @@ ModuleOutlineThickness=0.150000000000
 version=1
 [eeschema]
 version=1
-PageLayoutDescrFile=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=60
+LibDir=
+[eeschema/libraries]
+LibName1=transistors
+LibName2=ReflowToaster
+LibName3=device
+LibName4=conn
+LibName5=power
