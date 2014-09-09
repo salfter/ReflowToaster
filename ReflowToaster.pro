@@ -1,4 +1,4 @@
-update=Mon 08 Sep 2014 10:00:30 PM PDT
+update=Mon 08 Sep 2014 10:35:14 PM PDT
 version=1
 last_client=kicad
 [cvpcb]
@@ -31,8 +31,8 @@ version=1
 version=1
 LibDir=
 [eeschema/libraries]
-LibName1=power
-LibName2=/home/salfter/kicad-libs/device_fixed
+LibName1=ReflowToaster
+LibName2=power
 LibName3=device
 LibName4=transistors
 LibName5=conn

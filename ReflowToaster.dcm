@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CER_RES
+D Ceramic Resonator
+$ENDCMP
+#
+$CMP R
+D Resistor
+K R DEV
+$ENDCMP
+#
+$CMP VR
+D Varistor
+K VR  DEV
+$ENDCMP
+#
+#End Doc Library
