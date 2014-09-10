@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-09-08 BZR 5122)-product   date = 09/09/2014 10:13:51
+Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Tue 09 Sep 2014 07:07:01 PM PDT
 
 BeginCmp
 TimeStamp = /540E7838/540E8D92;
@@ -29,10 +29,38 @@ IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
 BeginCmp
+TimeStamp = /540E7838/540F6815;
+Reference = C5;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E7838/540F6784;
+Reference = C6;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:c_1206;
+EndCmp
+
+BeginCmp
 TimeStamp = /540E7838/540E91CF;
 Reference = F1;
 ValeurCmp = 500mA;
 IdModule  = Capacitors_SMD:c_1812;
+EndCmp
+
+BeginCmp
+TimeStamp = /540F7F5E;
+Reference = J2;
+ValeurCmp = USB-Micro-B;
+IdModule  = ReflowToaster:FCI_10118192-0001LF;
+EndCmp
+
+BeginCmp
+TimeStamp = /540F90B7;
+Reference = J3;
+ValeurCmp = USB-Micro-B;
+IdModule  = ReflowToaster:FCI_10118192-0001LF;
 EndCmp
 
 BeginCmp
@@ -47,6 +75,13 @@ TimeStamp = /540E7838/540E7D81;
 Reference = P1;
 ValeurCmp = CONN_02X03;
 IdModule  = Socket_Strips:Socket_Strip_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /540FC488;
+Reference = Q1;
+ValeurCmp = FDN340P;
+IdModule  = ReflowToaster:FDN340P;
 EndCmp
 
 BeginCmp
@@ -82,6 +117,13 @@ TimeStamp = /540E7838/540E78F9;
 Reference = U1;
 ValeurCmp = ATMEGA32U4-A;
 IdModule  = SMD_Packages:TQFP-44;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E7838/540F663F;
+Reference = U2;
+ValeurCmp = MCP1700T-3302E/TT;
+IdModule  = SMD_Packages:SOT-23;
 EndCmp
 
 BeginCmp

@@ -4,6 +4,11 @@ $CMP CER_RES
 D Ceramic Resonator
 $ENDCMP
 #
+$CMP FDN340P
+D 2A P Channel MOSFET
+K mosfet
+$ENDCMP
+#
 $CMP MCP1700T-3302E/TT
 D Low Quiescent Current LDO
 K regulator,ldo
