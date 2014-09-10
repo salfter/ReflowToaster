@@ -1,0 +1,18 @@
+This is a re-creation in KiCad of this project:
+
+https://upverter.com/salfter/129531d44b9b2c59/ReflowToaster2/
+
+which also depends on this project:
+
+https://upverter.com/salfter/f2bd7fd7ccbdb49b/DuinoModSingle/
+
+It's a single-board mashup of the Rocket Scream reflow controller shield and
+an Arduino Leonardo:
+
+http://www.rocketscream.com/shop/reflow-oven-controller-shield-arduino-compatible
+http://arduino.cc/en/Main/arduinoBoardLeonardo
+
+As such, I anticipate that the Rocket Scream software should run on this
+with little or no modification:
+
+https://github.com/rocketscream/Reflow-Oven-Controller
