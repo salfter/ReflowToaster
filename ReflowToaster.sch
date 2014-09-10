@@ -8,7 +8,7 @@ EELAYER 24 0
 EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
-Sheet 1 2
+Sheet 1 3
 Title "ReflowToaster"
 Date "09 September 2014"
 Rev "0.1"
@@ -257,4 +257,10 @@ F 5 "FDN340P" H 2500 5200 60  0001 C CNN "Part Number"
 	1    2500 3950
 	0    -1   1    0   
 $EndComp
+$Sheet
+S 5100 2450 1100 1300
+U 540FBA95
+F0 "Thermocouple Interface" 60
+F1 "Thermocouple.sch" 60
+$EndSheet
 $EndSCHEMATC

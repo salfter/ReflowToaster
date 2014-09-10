@@ -9,6 +9,11 @@ D 2A P Channel MOSFET
 K mosfet
 $ENDCMP
 #
+$CMP MAX31855KASA+
+D Type-K Thermocouple-to-Digital Converter
+K thermocouple
+$ENDCMP
+#
 $CMP MCP1700T-3302E/TT
 D Low Quiescent Current LDO
 K regulator,ldo

@@ -8,7 +8,7 @@ EELAYER 24 0
 EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
-Sheet 2 2
+Sheet 2 3
 Title "ReflowToaster"
 Date "09 September 2014"
 Rev "0.1"
