@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Tue 09 Sep 2014 07:07:01 PM PDT
+Cmp-Mod V01 Created by Cvpcb (2014-09-08 BZR 5122)-product   date = 10/09/2014 12:44:43
 
 BeginCmp
 TimeStamp = /540E7838/540E8D92;
@@ -43,6 +43,41 @@ IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
 BeginCmp
+TimeStamp = /540FBA95/54106B7B;
+Reference = C9;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /540FBA95/541074BF;
+Reference = C10;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /540FBA95/54107549;
+Reference = C11;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /540FBA95/54106D7A;
+Reference = C12;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /540FBA95/54107DF0;
+Reference = C13;
+ValeurCmp = 0.01uF;
+IdModule  = Capacitors_SMD:c_1206;
+EndCmp
+
+BeginCmp
 TimeStamp = /540E7838/540E91CF;
 Reference = F1;
 ValeurCmp = 500mA;
@@ -64,10 +99,31 @@ IdModule  = ReflowToaster:FCI_10118192-0001LF;
 EndCmp
 
 BeginCmp
+TimeStamp = /540FBA95/5410AC42;
+Reference = J7;
+ValeurCmp = CONN_01X02;
+IdModule  = ReflowToaster:282836-2;
+EndCmp
+
+BeginCmp
 TimeStamp = /540E7838/540F28C4;
 Reference = L1;
 ValeurCmp = Ferrite Bead;
 IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /540FBA95/54107A18;
+Reference = L2;
+ValeurCmp = INDUCTOR_SMALL;
+IdModule  = ReflowToaster:smd_1806;
+EndCmp
+
+BeginCmp
+TimeStamp = /540FBA95/54107A8D;
+Reference = L3;
+ValeurCmp = INDUCTOR_SMALL;
+IdModule  = ReflowToaster:smd_1806;
 EndCmp
 
 BeginCmp
@@ -123,6 +179,34 @@ BeginCmp
 TimeStamp = /540E7838/540F663F;
 Reference = U2;
 ValeurCmp = MCP1700T-3302E/TT;
+IdModule  = SMD_Packages:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /540FBA95/5410697C;
+Reference = U5;
+ValeurCmp = 74LVC2G34;
+IdModule  = SMD_Packages:SOT-23-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /540FBA95/54106E70;
+Reference = U6;
+ValeurCmp = 74LVC1T45;
+IdModule  = SMD_Packages:SOT-23-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /540FBA95/540FF176;
+Reference = U7;
+ValeurCmp = MAX31855KASA+;
+IdModule  = SMD_Packages:SOIC-8-N;
+EndCmp
+
+BeginCmp
+TimeStamp = /540FBA95/541078A5;
+Reference = U8;
+ValeurCmp = NUP2105L;
 IdModule  = SMD_Packages:SOT-23;
 EndCmp
 

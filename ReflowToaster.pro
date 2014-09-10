@@ -1,4 +1,4 @@
-update=10/09/2014 08:09:58
+update=10/09/2014 12:25:04
 version=1
 last_client=eeschema
 [cvpcb]
@@ -37,3 +37,4 @@ LibName3=atmel
 LibName4=power
 LibName5=74xgxx
 LibName6=74xx
+LibName7=conn
