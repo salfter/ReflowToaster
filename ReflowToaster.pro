@@ -1,6 +1,6 @@
-update=Tue 09 Sep 2014 04:19:05 PM PDT
+update=10/09/2014 08:09:58
 version=1
-last_client=kicad
+last_client=eeschema
 [cvpcb]
 version=1
 NetIExt=net
@@ -35,3 +35,5 @@ LibName1=ReflowToaster
 LibName2=device
 LibName3=atmel
 LibName4=power
+LibName5=74xgxx
+LibName6=74xx

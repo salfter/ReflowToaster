@@ -3,6 +3,8 @@ LIBS:ReflowToaster
 LIBS:device
 LIBS:atmel
 LIBS:power
+LIBS:74xgxx
+LIBS:74xx
 LIBS:ReflowToaster-cache
 EELAYER 24 0
 EELAYER END

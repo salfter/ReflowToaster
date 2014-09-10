@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74LVC1T45
+D single-bit dual-supply bus transceiver with configurable voltage translation and 3-state outputs
+$ENDCMP
+#
 $CMP CER_RES
 D Ceramic Resonator
 $ENDCMP
