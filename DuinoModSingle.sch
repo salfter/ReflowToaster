@@ -1,8 +1,7 @@
 EESchema Schematic File Version 2
-LIBS:transistors
 LIBS:ReflowToaster
 LIBS:device
-LIBS:conn
+LIBS:atmel
 LIBS:power
 LIBS:ReflowToaster-cache
 EELAYER 24 0

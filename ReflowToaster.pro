@@ -1,6 +1,6 @@
-update=09/09/2014 15:10:55
+update=Tue 09 Sep 2014 04:19:05 PM PDT
 version=1
-last_client=eeschema
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -31,8 +31,7 @@ version=1
 version=1
 LibDir=
 [eeschema/libraries]
-LibName1=transistors
-LibName2=ReflowToaster
-LibName3=device
-LibName4=conn
-LibName5=power
+LibName1=ReflowToaster
+LibName2=device
+LibName3=atmel
+LibName4=power
