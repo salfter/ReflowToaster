@@ -70,7 +70,9 @@ F 2 "ReflowToaster:FCI_10118192-0001LF" H 3500 4600 60  0001 C CNN
 F 3 "http://www.mouser.com/ds/2/154/10118192AC-197249.pdf" H 3500 4600 60  0001 C CNN
 F 4 "FCI" H 3500 4600 60  0001 C CNN "Manufacturer"
 F 5 "10118192-0001LF" H 3500 4600 60  0001 C CNN "Part Number"
-F 6 "Power and Data" H 3500 4150 60  0000 C CNN "Usage"
+F 6 "609-4613-1-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "649-10118192-0001LF" H 0   0   50  0001 C CNN "Mouser P/N"
+F 8 "Power and Data" H 3500 4150 60  0000 C CNN "Usage"
 	1    3500 4600
 	-1   0    0    -1  
 $EndComp
@@ -106,7 +108,9 @@ F 2 "ReflowToaster:FCI_10118192-0001LF" H 3500 3550 60  0001 C CNN
 F 3 "http://www.mouser.com/ds/2/154/10118192AC-197249.pdf" H 3500 3550 60  0001 C CNN
 F 4 "FCI" H 3500 3550 60  0001 C CNN "Manufacturer"
 F 5 "10118192-0001LF" H 3500 3550 60  0001 C CNN "Part Number"
-F 6 "Power Only" H 3500 3100 60  0000 C CNN "Usage"
+F 6 "609-4613-1-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "649-10118192-0001LF" H 0   0   50  0001 C CNN "Mouser P/N"
+F 8 "Power Only" H 3500 3100 60  0000 C CNN "Usage"
 	1    3500 3550
 	-1   0    0    -1  
 $EndComp

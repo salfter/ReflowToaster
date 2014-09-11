@@ -30,7 +30,11 @@ P 5700 4600
 F 0 "U1" H 4750 6300 40  0000 C CNN
 F 1 "ATMEGA32U4-A" H 6400 3100 40  0000 C CNN
 F 2 "SMD_Packages:TQFP-44" H 5700 4600 35  0001 C CIN
-F 3 "" H 6800 5700 60  0000 C CNN
+F 3 "http://www.atmel.com/Images/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_%20Datasheet.pdf" H 6800 5700 60  0001 C CNN
+F 4 "Atmel" H 3500 3550 60  0001 C CNN "Manufacturer"
+F 5 "ATMEGA32U4-AU" H 3500 3550 60  0001 C CNN "Part Number"
+F 6 "ATMEGA32U4-AURCT-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "556-ATMEGA32U4-AU" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    5700 4600
 	1    0    0    -1  
 $EndComp
@@ -65,7 +69,11 @@ P 7100 5150
 F 0 "R4" V 7065 5055 40  0000 R CNN
 F 1 "10k" V 7132 5261 40  0000 L CNN
 F 2 "Capacitors_SMD:c_1206" V 7030 5150 30  0001 C CNN
-F 3 "" H 7125 5260 30  0000 C CNN
+F 3 "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ8GEYJ103V+7+WW" H 7125 5260 30  0001 C CNN
+F 4 "Panasonic" H 3500 3550 60  0001 C CNN "Manufacturer"
+F 5 "ERJ-8GEYJ103V" H 3500 3550 60  0001 C CNN "Part Number"
+F 6 "P10KECT-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "667-ERJ-8GEYJ103V" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    7100 5150
 	0    1    1    0   
 $EndComp
@@ -137,7 +145,11 @@ P 8100 3200
 F 0 "P1" H 8100 3400 50  0000 C CNN
 F 1 "CONN_02X03" H 8100 3000 50  0001 C CNN
 F 2 "Socket_Strips:Socket_Strip_Straight_2x03" H 8100 2000 60  0001 C CNN
-F 3 "" H 8100 2000 60  0000 C CNN
+F 3 "http://harwin.com/includes/pdfs/M20-998.pdf" H 7125 5260 30  0001 C CNN
+F 4 "Harwin" H 3500 3550 60  0001 C CNN "Manufacturer"
+F 5 "M20-9980345" H 3500 3550 60  0001 C CNN "Part Number"
+F 6 "952-2120-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "855-M20-9980345" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    8100 3200
 	1    0    0    -1  
 $EndComp
@@ -233,7 +245,11 @@ P 8100 2850
 F 0 "R3" V 8065 2755 40  0000 R CNN
 F 1 "10k" V 8132 2961 40  0000 L CNN
 F 2 "Capacitors_SMD:c_1206" V 8030 2850 30  0001 C CNN
-F 3 "" H 8125 2960 30  0000 C CNN
+F 3 "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ8GEYJ103V+7+WW" H 7125 5260 30  0001 C CNN
+F 4 "Panasonic" H 3500 3550 60  0001 C CNN "Manufacturer"
+F 5 "ERJ-8GEYJ103V" H 3500 3550 60  0001 C CNN "Part Number"
+F 6 "P10KECT-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "667-ERJ-8GEYJ103V" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    8100 2850
 	0    1    1    0   
 $EndComp
@@ -374,7 +390,11 @@ P 4450 5700
 F 0 "C3" H 4450 5800 40  0000 L CNN
 F 1 "0.1uF" H 4456 5615 40  0000 L CNN
 F 2 "Capacitors_SMD:c_1206" H 4488 5550 30  0001 C CNN
-F 3 "" H 4450 5700 60  0000 C CNN
+F 3 "http://www.kemet.com/docfinder?Partnumber=C1206C104K5RACTU" H 7125 5260 30  0001 C CNN
+F 4 "Kemet" H 3500 3550 60  0001 C CNN "Manufacturer"
+F 5 "C1206C104K5RACTU" H 3500 3550 60  0001 C CNN "Part Number"
+F 6 "399-1249-1-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "80-C1206C104K5R" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    4450 5700
 	1    0    0    -1  
 $EndComp
@@ -405,7 +425,11 @@ P 4450 4900
 F 0 "C1" H 4450 5000 40  0000 L CNN
 F 1 "1uF" H 4456 4815 40  0000 L CNN
 F 2 "Capacitors_SMD:c_1206" H 4488 4750 30  0001 C CNN
-F 3 "" H 4450 4900 60  0000 C CNN
+F 3 "http://www.kemet.com/docfinder?Partnumber=C1206C105K5RACTU" H 7125 5260 30  0001 C CNN
+F 4 "Kemet" H 3500 3550 60  0001 C CNN "Manufacturer"
+F 5 "C1206C105K5RACTU" H 3500 3550 60  0001 C CNN "Part Number"
+F 6 "399-8147-1-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "80-C1206C105K5R" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    4450 4900
 	1    0    0    -1  
 $EndComp
@@ -433,7 +457,11 @@ P 4200 4400
 F 0 "R2" V 4165 4305 40  0000 R CNN
 F 1 "22" V 4232 4511 40  0000 L CNN
 F 2 "Capacitors_SMD:c_1206" H 4130 4400 30  0001 C CNN
-F 3 "" H 4225 4510 30  0000 C CNN
+F 3 "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ8GEYJ220V+7+WW" H 7125 5260 30  0001 C CNN
+F 4 "Panasonic" H 3500 3550 60  0001 C CNN "Manufacturer"
+F 5 "ERJ-8GEYJ220V" H 3500 3550 60  0001 C CNN "Part Number"
+F 6 "P22ECT-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "667-ERJ-8GEYJ220V" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    4200 4400
 	0    1    1    0   
 $EndComp
@@ -444,7 +472,11 @@ P 4100 4500
 F 0 "R1" V 4065 4405 40  0000 R CNN
 F 1 "22" V 4132 4611 40  0000 L CNN
 F 2 "Capacitors_SMD:c_1206" H 4030 4500 30  0001 C CNN
-F 3 "" H 4125 4610 30  0000 C CNN
+F 3 "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ8GEYJ220V+7+WW" H 7125 5260 30  0001 C CNN
+F 4 "Panasonic" H 3500 3550 60  0001 C CNN "Manufacturer"
+F 5 "ERJ-8GEYJ220V" H 3500 3550 60  0001 C CNN "Part Number"
+F 6 "P22ECT-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "667-ERJ-8GEYJ220V" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    4100 4500
 	0    1    1    0   
 $EndComp
@@ -459,9 +491,11 @@ P 3800 4800
 F 0 "VR2" V 3750 4704 40  0000 R TNN
 F 1 "VR" V 3830 4910 40  0001 L CNN
 F 2 "Capacitors_SMD:c_0603" H 3830 4910 60  0001 C CNN
-F 3 "http://datasheet.octopart.com/CG0603MLC-05E-Bourns-datasheet-17172219.pdf" H 3830 4910 60  0001 C CNN
+F 3 "http://www.bourns.com/data/global/pdfs/MLC.pdf" H 3830 4910 60  0001 C CNN
 F 4 "Bourns" V 3800 4800 60  0001 C CNN "Manufacturer"
 F 5 "CG0603MLC-05E" V 3800 4800 60  0001 C CNN "Part Number"
+F 6 "CG0603MLC-05ECT-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "652-CG0603MLC-05E" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    3800 4800
 	1    0    0    -1  
 $EndComp
@@ -472,9 +506,11 @@ P 3650 4800
 F 0 "VR1" V 3600 4704 40  0000 R TNN
 F 1 "VR" V 3680 4910 40  0001 L CNN
 F 2 "Capacitors_SMD:c_0603" H 3680 4910 60  0001 C CNN
-F 3 "http://datasheet.octopart.com/CG0603MLC-05E-Bourns-datasheet-17172219.pdf" H 3680 4910 60  0001 C CNN
-F 4 "Bourns" V 3650 4800 60  0001 C CNN "Manufacturer"
-F 5 "CG0603MLC-05E" V 3650 4800 60  0001 C CNN "Part Number"
+F 3 "http://www.bourns.com/data/global/pdfs/MLC.pdf" H 3830 4910 60  0001 C CNN
+F 4 "Bourns" V 3800 4800 60  0001 C CNN "Manufacturer"
+F 5 "CG0603MLC-05E" V 3800 4800 60  0001 C CNN "Part Number"
+F 6 "CG0603MLC-05ECT-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "652-CG0603MLC-05E" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    3650 4800
 	1    0    0    -1  
 $EndComp
@@ -519,15 +555,17 @@ Wire Wire Line
 Wire Wire Line
 	3800 5050 3800 5100
 $Comp
-L FUSE F1
+L FUSE F1'
 U 1 1 540E91CF
 P 3850 4250
 F 0 "F1" H 3950 4300 40  0000 C CNN
 F 1 "500mA" H 3750 4200 40  0000 C CNN
 F 2 "Capacitors_SMD:c_1812" H 3850 4250 60  0001 C CNN
-F 3 " 	http://datasheet.octopart.com/MF-MSMF050-2-Bourns-datasheet-28511.pdf" H 3850 4250 60  0001 C CNN
+F 3 "http://www.bourns.com/data/global/pdfs/mfmsmf.pdf" H 3850 4250 60  0001 C CNN
 F 4 "Bourns" H 3850 4250 60  0001 C CNN "Manufacturer"
 F 5 "MF-MSMF050-2" H 3850 4250 60  0001 C CNN "Part Number"
+F 6 "MF-MSMF050-2CT-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "652-MF-MSMF050-2" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    3850 4250
 	1    0    0    -1  
 $EndComp
@@ -558,9 +596,11 @@ P 4350 3550
 F 0 "X1" V 4200 3650 60  0000 C CNN
 F 1 "16MHz" V 4650 3300 60  0000 C CNN
 F 2 "ReflowToaster:AVX_PBRC-H" H 4350 3550 60  0001 C CNN
-F 3 "http://datasheet.octopart.com/PBRC16.00HR70X000-AVX-datasheet-2504.pdf" H 4350 3550 60  0001 C CNN
+F 3 "http://global.kyocera.com/prdct/electro/pdf/resonator/pbr-ce.pdf" H 4350 3550 60  0001 C CNN
 F 4 "AVX" V 4350 3550 60  0001 C CNN "Manufacturer"
 F 5 "PBRC16.00HR70X000 " V 4350 3550 60  0001 C CNN "Part Number"
+F 6 "1253-1084-1-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "581-PBRC1600HR70X000" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    4350 3550
 	0    1    1    0   
 $EndComp
@@ -597,6 +637,8 @@ F 2 "Capacitors_SMD:c_0805" H 6350 2200 60  0001 C CNN
 F 3 "http://www.bourns.com/data/global/pdfs/mh.pdf" H 6350 2200 60  0001 C CNN
 F 4 "Bourns" H 6350 2200 60  0001 C CNN "Manufacturer"
 F 5 "MH2029-300Y" H 6350 2200 60  0001 C CNN "Part Number"
+F 6 "MH2029-300YCT-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "652-MH2029-300Y" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    6350 2200
 	1    0    0    -1  
 $EndComp
@@ -607,7 +649,11 @@ P 6700 2400
 F 0 "C4" H 6700 2500 40  0000 L CNN
 F 1 "0.1uF" H 6706 2315 40  0000 L CNN
 F 2 "Capacitors_SMD:c_1206" H 6738 2250 30  0001 C CNN
-F 3 "" H 6700 2400 60  0000 C CNN
+F 3 "http://www.kemet.com/docfinder?Partnumber=C1206C104K5RACTU" H 7125 5260 30  0001 C CNN
+F 4 "Kemet" H 3500 3550 60  0001 C CNN "Manufacturer"
+F 5 "C1206C104K5RACTU" H 3500 3550 60  0001 C CNN "Part Number"
+F 6 "399-1249-1-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "80-C1206C104K5R" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    6700 2400
 	1    0    0    -1  
 $EndComp
@@ -645,7 +691,11 @@ P 5700 2400
 F 0 "C2" H 5700 2500 40  0000 L CNN
 F 1 "0.1uF" H 5706 2315 40  0000 L CNN
 F 2 "Capacitors_SMD:c_1206" H 5738 2250 30  0001 C CNN
-F 3 "" H 5700 2400 60  0000 C CNN
+F 3 "http://www.kemet.com/docfinder?Partnumber=C1206C104K5RACTU" H 7125 5260 30  0001 C CNN
+F 4 "Kemet" H 3500 3550 60  0001 C CNN "Manufacturer"
+F 5 "C1206C104K5RACTU" H 3500 3550 60  0001 C CNN "Part Number"
+F 6 "399-1249-1-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "80-C1206C104K5R" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    5700 2400
 	1    0    0    -1  
 $EndComp
@@ -681,6 +731,8 @@ F 2 "SMD_Packages:SOT-23" H 1400 2600 60  0001 C CNN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/21826b.pdf" H 1925 2725 60  0001 C CNN
 F 4 "Microchip" H 2150 2550 60  0001 C CNN "Manufacturer"
 F 5 "MCP1700T-3302E/TT" H 2675 2625 60  0001 C CNN "Part Number"
+F 6 "MCP1700T3302ETTCT-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "579-MCP1700T3302E/TT" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    2000 3150
 	1    0    0    -1  
 $EndComp
@@ -691,7 +743,11 @@ P 1550 3400
 F 0 "C6" H 1550 3500 40  0000 L CNN
 F 1 "1uF" H 1556 3315 40  0000 L CNN
 F 2 "Capacitors_SMD:c_1206" H 1588 3250 30  0001 C CNN
-F 3 "" H 1550 3400 60  0000 C CNN
+F 3 "http://www.kemet.com/docfinder?Partnumber=C1206C105K5RACTU" H 7125 5260 30  0001 C CNN
+F 4 "Kemet" H 3500 3550 60  0001 C CNN "Manufacturer"
+F 5 "C1206C105K5RACTU" H 3500 3550 60  0001 C CNN "Part Number"
+F 6 "399-8147-1-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "80-C1206C105K5R" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    1550 3400
 	1    0    0    -1  
 $EndComp
@@ -702,7 +758,11 @@ P 2450 3400
 F 0 "C5" H 2450 3500 40  0000 L CNN
 F 1 "1uF" H 2456 3315 40  0000 L CNN
 F 2 "Capacitors_SMD:c_1206" H 2488 3250 30  0001 C CNN
-F 3 "" H 2450 3400 60  0000 C CNN
+F 3 "http://www.kemet.com/docfinder?Partnumber=C1206C105K5RACTU" H 7125 5260 30  0001 C CNN
+F 4 "Kemet" H 3500 3550 60  0001 C CNN "Manufacturer"
+F 5 "C1206C105K5RACTU" H 3500 3550 60  0001 C CNN "Part Number"
+F 6 "399-8147-1-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "80-C1206C105K5R" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    2450 3400
 	1    0    0    -1  
 $EndComp
