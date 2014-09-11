@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:/Users/salfter/Documents/ReflowToaster/ReflowToaster.sch)
-    (date "11/09/2014 10:03:50")
+    (date "11/09/2014 12:25:37")
     (tool "Eeschema (2014-09-08 BZR 5122)-product"))
   (components
     (comp (ref J2)
@@ -178,7 +178,7 @@
       (datasheet http://global.kyocera.com/prdct/electro/pdf/resonator/pbr-ce.pdf)
       (fields
         (field (name Manufacturer) AVX)
-        (field (name "Part Number") "PBRC16.00HR70X000 ")
+        (field (name "Part Number") PBRC16.00HR70X000)
         (field (name "DigiKey P/N") 1253-1084-1-ND)
         (field (name "Mouser P/N") 581-PBRC1600HR70X000))
       (libsource (lib ReflowToaster) (part CER_RES))

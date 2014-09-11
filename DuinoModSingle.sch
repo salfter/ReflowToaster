@@ -598,7 +598,7 @@ F 1 "16MHz" V 4650 3300 60  0000 C CNN
 F 2 "ReflowToaster:AVX_PBRC-H" H 4350 3550 60  0001 C CNN
 F 3 "http://global.kyocera.com/prdct/electro/pdf/resonator/pbr-ce.pdf" H 4350 3550 60  0001 C CNN
 F 4 "AVX" V 4350 3550 60  0001 C CNN "Manufacturer"
-F 5 "PBRC16.00HR70X000 " V 4350 3550 60  0001 C CNN "Part Number"
+F 5 "PBRC16.00HR70X000" V 4350 3550 60  0001 C CNN "Part Number"
 F 6 "1253-1084-1-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
 F 7 "581-PBRC1600HR70X000" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    4350 3550
