@@ -2,3 +2,4 @@
 *.bck
 _autosave*
 *~
+nohup.out

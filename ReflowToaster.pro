@@ -1,6 +1,6 @@
-update=10/09/2014 12:25:04
+update=Wed 10 Sep 2014 08:29:31 PM PDT
 version=1
-last_client=eeschema
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -38,3 +38,5 @@ LibName4=power
 LibName5=74xgxx
 LibName6=74xx
 LibName7=conn
+LibName8=transistors
+LibName9=display

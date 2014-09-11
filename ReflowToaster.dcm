@@ -13,6 +13,11 @@ D 2A P Channel MOSFET
 K mosfet
 $ENDCMP
 #
+$CMP LCD8X2
+D 8x2 Character LCD
+K Generic LCD 8x2 Alphanumeric 2x8pin 
+$ENDCMP
+#
 $CMP MAX31855KASA+
 D Type-K Thermocouple-to-Digital Converter
 K thermocouple
@@ -26,6 +31,10 @@ $ENDCMP
 #
 $CMP NUP2105L
 D Dual Line CAN Bus Protector
+$ENDCMP
+#
+$CMP PMBT3904
+F transistors/bipolar/*.*
 $ENDCMP
 #
 $CMP R
