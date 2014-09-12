@@ -1,10 +1,10 @@
-Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Wed 10 Sep 2014 09:56:19 PM PDT
+Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Thu 11 Sep 2014 08:18:31 PM PDT
 
 BeginCmp
 TimeStamp = /541144C4/54115665;
 Reference = B1;
 ValeurCmp = SPEAKER;
-IdModule  = ;
+IdModule  = ReflowToaster:CX-0905C;
 EndCmp
 
 BeginCmp

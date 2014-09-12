@@ -187,8 +187,8 @@ U 1 1 54115665
 P 8900 1950
 F 0 "B1" H 8800 2200 70  0000 C CNN
 F 1 "SPEAKER" H 8800 1700 70  0001 C CNN
-F 2 "" H 8900 1950 60  0000 C CNN
-F 3 " 	http://datasheet.octopart.com/CX-0905C-CUI-datasheet-40254.pdf" H 8900 1950 60  0001 C CNN
+F 2 "ReflowToaster:CX-0905C" H 8900 1950 60  0001 C CNN
+F 3 "http://datasheet.octopart.com/CX-0905C-CUI-datasheet-40254.pdf" H 8900 1950 60  0001 C CNN
 F 4 "CUI" H 8900 1950 60  0001 C CNN "Manufacturer"
 F 5 "CX-0905C" H 8900 1950 60  0001 C CNN "Part Number"
 	1    8900 1950
