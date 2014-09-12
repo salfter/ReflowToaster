@@ -33,6 +33,8 @@ F 2 "SMD_Packages:SOIC-8-N" H 5550 4825 60  0001 C CNN
 F 3 "http://datasheets.maxim-ic.com/en/ds/MAX31855.pdf" H 5550 4900 60  0001 C CNN
 F 4 "Maxim" H 5550 4975 60  0001 C CNN "Manufacturer"
 F 5 "MAX31855KASA+" H 5550 5050 60  0001 C CNN "Part Number"
+F 6 "MAX31855KASA+TCT-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "700-MAX31855KASA+" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    5550 3950
 	1    0    0    -1  
 $EndComp
@@ -43,9 +45,11 @@ P 4650 3550
 F 0 "U5" H 4550 3700 40  0000 C CNN
 F 1 "74LVC2G34" H 4650 3400 40  0000 C CNN
 F 2 "SMD_Packages:SOT-23-6" H 4650 3550 60  0001 C CNN
-F 3 "http://datasheet.octopart.com/SN74LVC2G34DBVR-Texas-Instruments-datasheet-153323.pdf" H 4650 3550 60  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74lvc2g34.pdf" H 4650 3550 60  0001 C CNN
 F 4 "Texas Instruments" H 4650 3550 60  0001 C CNN "Manufacturer"
 F 5 "SN74LVC2G34DBVR" H 4650 3550 60  0001 C CNN "Part Number"
+F 6 "296-13496-1-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "595-SN74LVC2G34DBVR" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    4650 3550
 	1    0    0    -1  
 $EndComp
@@ -75,8 +79,12 @@ P 4650 4550
 F 0 "C9" H 4650 4650 40  0000 L CNN
 F 1 "0.1uF" H 4656 4465 40  0000 L CNN
 F 2 "Capacitors_SMD:c_1206" H 4688 4400 30  0001 C CNN
-F 3 "" H 4650 4550 60  0000 C CNN
-F 4 "U5 Bypass" H 4850 4400 40  0000 C CNN "Usage"
+F 3 "http://www.kemet.com/docfinder?Partnumber=C1206C104K5RACTU" H 7125 5260 30  0001 C CNN
+F 4 "Kemet" H 3500 3550 60  0001 C CNN "Manufacturer"
+F 5 "C1206C104K5RACTU" H 3500 3550 60  0001 C CNN "Part Number"
+F 6 "399-1249-1-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "80-C1206C104K5R" H 0   0   50  0001 C CNN "Mouser P/N"
+F 8 "U5 Bypass" H 4850 4400 40  0000 C CNN "Usage"
 	1    4650 4550
 	1    0    0    -1  
 $EndComp
@@ -113,7 +121,11 @@ P 5750 3400
 F 0 "C12" V 5700 3200 40  0000 L CNN
 F 1 "0.1uF" V 5800 3450 40  0000 L CNN
 F 2 "Capacitors_SMD:c_1206" H 5788 3250 30  0001 C CNN
-F 3 "" H 5750 3400 60  0000 C CNN
+F 3 "http://www.kemet.com/docfinder?Partnumber=C1206C104K5RACTU" H 7125 5260 30  0001 C CNN
+F 4 "Kemet" H 3500 3550 60  0001 C CNN "Manufacturer"
+F 5 "C1206C104K5RACTU" H 3500 3550 60  0001 C CNN "Part Number"
+F 6 "399-1249-1-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "80-C1206C104K5R" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    5750 3400
 	0    1    1    0   
 $EndComp
@@ -172,9 +184,11 @@ P 3750 4950
 F 0 "U6" H 3625 5250 60  0000 R CNN
 F 1 "74LVC1T45" H 3775 4650 60  0000 L CNN
 F 2 "SMD_Packages:SOT-23-6" H 3750 4950 60  0001 C CNN
-F 3 "http://datasheet.octopart.com/SN74LVC1T45DBVR-Texas-Instruments-datasheet-21259457.pdf" H 3750 5825 60  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf" H 3750 5825 60  0001 C CNN
 F 4 "Texas Instruments" H 3750 4950 60  0001 C CNN "Manufacturer"
 F 5 "SN74LVC1T45DBVR" H 3750 4950 60  0001 C CNN "Part Number"
+F 6 "296-16843-1-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "595-SN74LVC1T45DBVR" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    3750 4950
 	1    0    0    -1  
 $EndComp
@@ -191,7 +205,11 @@ P 3550 4250
 F 0 "C10" H 3550 4350 40  0000 L CNN
 F 1 "0.1uF" H 3556 4165 40  0000 L CNN
 F 2 "Capacitors_SMD:c_1206" H 3588 4100 30  0001 C CNN
-F 3 "" H 3550 4250 60  0000 C CNN
+F 3 "http://www.kemet.com/docfinder?Partnumber=C1206C104K5RACTU" H 7125 5260 30  0001 C CNN
+F 4 "Kemet" H 3500 3550 60  0001 C CNN "Manufacturer"
+F 5 "C1206C104K5RACTU" H 3500 3550 60  0001 C CNN "Part Number"
+F 6 "399-1249-1-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "80-C1206C104K5R" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    3550 4250
 	1    0    0    -1  
 $EndComp
@@ -202,7 +220,11 @@ P 3950 4250
 F 0 "C11" H 3950 4350 40  0000 L CNN
 F 1 "0.1uF" H 3956 4165 40  0000 L CNN
 F 2 "Capacitors_SMD:c_1206" H 3988 4100 30  0001 C CNN
-F 3 "" H 3950 4250 60  0000 C CNN
+F 3 "http://www.kemet.com/docfinder?Partnumber=C1206C104K5RACTU" H 7125 5260 30  0001 C CNN
+F 4 "Kemet" H 3500 3550 60  0001 C CNN "Manufacturer"
+F 5 "C1206C104K5RACTU" H 3500 3550 60  0001 C CNN "Part Number"
+F 6 "399-1249-1-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "80-C1206C104K5R" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    3950 4250
 	1    0    0    -1  
 $EndComp
@@ -315,7 +337,11 @@ P 6450 3950
 F 0 "C13" H 6450 4050 40  0000 L CNN
 F 1 "0.01uF" H 6456 3865 40  0000 L CNN
 F 2 "Capacitors_SMD:c_1206" H 6488 3800 30  0001 C CNN
-F 3 "" H 6450 3950 60  0000 C CNN
+F 3 "http://www.kemet.com/docfinder?Partnumber=C1206C103K5RACTU" H 7125 5260 30  0001 C CNN
+F 4 "Kemet" H 3500 3550 60  0001 C CNN "Manufacturer"
+F 5 "C1206C103K5RACTU" H 3500 3550 60  0001 C CNN "Part Number"
+F 6 "399-1234-1-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "80-C1206C103K5R" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    6450 3950
 	1    0    0    -1  
 $EndComp
@@ -341,6 +367,8 @@ F 2 "SMD_Packages:SOT-23" H 6900 4900 60  0001 C CNN
 F 3 "http://www.onsemi.com/pub_link/Collateral/NUP2105L-D.PDF" H 6900 5000 60  0001 C CNN
 F 4 "ON Semiconductor" H 6900 4450 60  0001 C CNN "Manufacturer"
 F 5 "NUP2105LT1G" H 6900 4450 60  0001 C CNN "Part Number"
+F 6 "NUP2105LT1GOSCT-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "863-NUP2105LT1G" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    6900 4450
 	1    0    0    -1  
 $EndComp
@@ -370,9 +398,11 @@ P 7400 3750
 F 0 "L2" H 7400 3850 50  0000 C CNN
 F 1 "INDUCTOR_SMALL" H 7400 3700 50  0001 C CNN
 F 2 "ReflowToaster:smd_1806" H 7400 3750 60  0001 C CNN
-F 3 "http://datasheet.octopart.com/BLM41PG471SN1L-Murata-datasheet-531466.pdf" H 7400 3750 60  0001 C CNN
+F 3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0110S0100BLM41P.pdf" H 7400 3750 60  0001 C CNN
 F 4 "Murata" H 7400 3750 60  0001 C CNN "Manufacturer"
 F 5 "BLM41PG471SN1L" H 7400 3750 60  0001 C CNN "Part Number"
+F 6 "490-1060-1-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "81-BLM41PG471SN1L" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    7400 3750
 	1    0    0    -1  
 $EndComp
@@ -383,9 +413,11 @@ P 7400 4150
 F 0 "L3" H 7400 4250 50  0000 C CNN
 F 1 "INDUCTOR_SMALL" H 7400 4100 50  0001 C CNN
 F 2 "ReflowToaster:smd_1806" H 7400 4150 60  0001 C CNN
-F 3 "http://datasheet.octopart.com/BLM41PG471SN1L-Murata-datasheet-531466.pdf" H 7400 4150 60  0001 C CNN
-F 4 "Murata" H 7400 4150 60  0001 C CNN "Manufacturer"
-F 5 "BLM41PG471SN1L" H 7400 4150 60  0001 C CNN "Part Number"
+F 3 "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0110S0100BLM41P.pdf" H 7400 3750 60  0001 C CNN
+F 4 "Murata" H 7400 3750 60  0001 C CNN "Manufacturer"
+F 5 "BLM41PG471SN1L" H 7400 3750 60  0001 C CNN "Part Number"
+F 6 "490-1060-1-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "81-BLM41PG471SN1L" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    7400 4150
 	1    0    0    -1  
 $EndComp
@@ -398,9 +430,11 @@ P 7950 3950
 F 0 "J7" H 7950 4100 50  0000 C CNN
 F 1 "CONN_01X02" V 8050 3950 50  0001 C CNN
 F 2 "ReflowToaster:282836-2" H 7950 3950 60  0001 C CNN
-F 3 "http://datasheet.octopart.com/282836-2-Tyco-Electronics-datasheet-11084954.pdf" H 7950 3950 60  0001 C CNN
+F 3 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1308389_EUROSTYLE_TERMINAL_BLOCKS&DocType=CS&DocLang=English" H 7950 3950 60  0001 C CNN
 F 4 "TE Connectivity" H 7950 3950 60  0001 C CNN "Manufacturer"
 F 5 "282836-2" H 7950 3950 60  0001 C CNN "Part Number"
+F 6 "A98076-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "571-2828362" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    7950 3950
 	1    0    0    -1  
 $EndComp

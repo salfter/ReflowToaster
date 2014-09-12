@@ -30,7 +30,11 @@ P 5000 3650
 F 0 "J4" H 5000 3950 50  0000 C CNN
 F 1 "CONN_02X05" H 5000 3350 50  0001 C CNN
 F 2 "Pin_Headers:Pin_Header_Straight_2x05" H 5000 2450 60  0001 C CNN
-F 3 "" H 5000 2450 60  0000 C CNN
+F 3 "http://harwin.com/includes/pdfs/60page147.pdf" H 8900 1950 60  0001 C CNN
+F 4 "Harwin" H 8900 1950 60  0001 C CNN "Manufacturer"
+F 5 "M20-9980545" H 8900 1950 60  0001 C CNN "Part Number"
+F 6 "952-2380-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "855-M20-9980545" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    5000 3650
 	1    0    0    -1  
 $EndComp
@@ -99,7 +103,11 @@ P 5150 2250
 F 0 "R5" V 5115 2155 40  0000 R CNN
 F 1 "1k" V 5182 2361 40  0000 L CNN
 F 2 "Capacitors_SMD:c_1206" H 5080 2250 30  0001 C CNN
-F 3 "" H 5175 2360 30  0000 C CNN
+F 3 "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ8GEYJ102V+7+WW" H 7125 5260 30  0001 C CNN
+F 4 "Panasonic" H 3500 3550 60  0001 C CNN "Manufacturer"
+F 5 "ERJ-8GEYJ102V" H 3500 3550 60  0001 C CNN "Part Number"
+F 6 "P1KECT-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "667-ERJ-8GEYJ102V" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    5150 2250
 	0    1    1    0   
 $EndComp
@@ -114,7 +122,11 @@ P 8050 5700
 F 0 "R8" V 8015 5605 40  0000 R CNN
 F 1 "47k" V 8082 5811 40  0000 L CNN
 F 2 "Capacitors_SMD:c_1206" V 7980 5700 30  0001 C CNN
-F 3 "" H 8075 5810 30  0000 C CNN
+F 3 "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ8GEYJ473V+7+WW" H 7125 5260 30  0001 C CNN
+F 4 "Panasonic" H 3500 3550 60  0001 C CNN "Manufacturer"
+F 5 "ERJ-8GEYJ473V" H 3500 3550 60  0001 C CNN "Part Number"
+F 6 "P47KECT-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "667-ERJ-8GEYJ473V" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    8050 5700
 	0    1    1    0   
 $EndComp
@@ -125,9 +137,11 @@ P 8550 5700
 F 0 "Q3" H 8550 5850 50  0000 R CNN
 F 1 "PMBT3904" H 8550 5550 50  0000 R CNN
 F 2 "SMD_Packages:SOT-23" H 8550 6650 60  0001 C CNN
-F 3 "http://datasheet.octopart.com/PMBT3904-Philips-datasheet-90020.pdf" H 8550 6750 60  0001 C CNN
-F 4 "NXP" H 8550 6825 60  0001 C CNN "Manufacturer"
-F 5 "PMBT3904" H 8550 6900 60  0001 C CNN "Part Number"
+F 3 "http://www.nxp.com/documents/data_sheet/PMBT3904.pdf" H 8500 3350 60  0001 C CNN
+F 4 "NXP" H 8500 3425 60  0001 C CNN "Manufacturer"
+F 5 "PMBT3904" H 8500 3500 60  0001 C CNN "Part Number"
+F 6 "568-1741-1-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "771-PMBT3904-T/R" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    8550 5700
 	1    0    0    -1  
 $EndComp
@@ -153,7 +167,11 @@ P 8000 2300
 F 0 "R7" V 7965 2205 40  0000 R CNN
 F 1 "10k" V 8032 2411 40  0000 L CNN
 F 2 "Capacitors_SMD:c_1206" V 7930 2300 30  0001 C CNN
-F 3 "" H 8025 2410 30  0000 C CNN
+F 3 "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ8GEYJ103V+7+WW" H 7125 5260 30  0001 C CNN
+F 4 "Panasonic" H 3500 3550 60  0001 C CNN "Manufacturer"
+F 5 "ERJ-8GEYJ103V" H 3500 3550 60  0001 C CNN "Part Number"
+F 6 "P10KECT-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "667-ERJ-8GEYJ103V" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    8000 2300
 	0    1    1    0   
 $EndComp
@@ -164,9 +182,11 @@ P 8500 2300
 F 0 "Q2" H 8500 2450 50  0000 R CNN
 F 1 "PMBT3904" H 8500 2150 50  0000 R CNN
 F 2 "SMD_Packages:SOT-23" H 8500 3250 60  0001 C CNN
-F 3 "http://datasheet.octopart.com/PMBT3904-Philips-datasheet-90020.pdf" H 8500 3350 60  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/PMBT3904.pdf" H 8500 3350 60  0001 C CNN
 F 4 "NXP" H 8500 3425 60  0001 C CNN "Manufacturer"
 F 5 "PMBT3904" H 8500 3500 60  0001 C CNN "Part Number"
+F 6 "568-1741-1-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "771-PMBT3904-T/R" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    8500 2300
 	1    0    0    -1  
 $EndComp
@@ -188,9 +208,12 @@ P 8900 1950
 F 0 "B1" H 8800 2200 70  0000 C CNN
 F 1 "SPEAKER" H 8800 1700 70  0001 C CNN
 F 2 "ReflowToaster:CX-0905C" H 8900 1950 60  0001 C CNN
-F 3 "http://datasheet.octopart.com/CX-0905C-CUI-datasheet-40254.pdf" H 8900 1950 60  0001 C CNN
+F 3 "http://www.cui.com/product/resource/digikeypdf/cx-0905c.pdf" H 8900 1950 60  0001 C CNN
 F 4 "CUI" H 8900 1950 60  0001 C CNN "Manufacturer"
 F 5 "CX-0905C" H 8900 1950 60  0001 C CNN "Part Number"
+F 6 "102-1285-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "254-EMB105-RO" H 0   0   50  0001 C CNN "Mouser P/N"
+F 8 "sub Kobitone 254-EMB105-RO when ordering from Mouser" H 0 0 50 0001 C CNN "Note"
 	1    8900 1950
 	1    0    0    -1  
 $EndComp
@@ -215,6 +238,8 @@ F 2 "ReflowToaster:LCD_8x2" H 8300 3750 35  0000 C CIN
 F 3 "http://www.newhavendisplay.com/specs/NHD-0208AZ-FL-YBW.pdf" H 8300 3800 60  0001 C CNN
 F 4 "Newhaven Display" H 8300 3800 60  0001 C CNN "Manufacturer"
 F 5 "NHD-0208AZ-FL-YBW" H 8300 3800 60  0001 C CNN "Part Number"
+F 6 "NHD-0208AZ-FL-YBW-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "763-0208AZ-FL-YBW" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    8300 3800
 	1    0    0    -1  
 $EndComp
@@ -269,9 +294,11 @@ P 7750 4750
 F 0 "R6" V 7715 4655 40  0000 R CNN
 F 1 "10k" V 7782 4861 40  0000 L CNN
 F 2 "ReflowToaster:3319P-1-103" V 7680 4750 30  0001 C CNN
-F 3 "http://datasheet.octopart.com/3319P-1-103-Bourns-datasheet-4388.pdf" H 7775 4860 30  0001 C CNN
+F 3 "http://www.bourns.com/data/global/pdfs/3319.pdf" H 7775 4860 30  0001 C CNN
 F 4 "Bourns" V 7750 4750 60  0001 C CNN "Manufacturer"
 F 5 "3319P-1-103" V 7750 4750 60  0001 C CNN "Part Number"
+F 6 "3319P-103-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "652-3319P-1-103" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    7750 4750
 	0    1    1    0   
 $EndComp
@@ -434,7 +461,11 @@ P 2650 3450
 F 0 "R9" V 2615 3355 40  0000 R CNN
 F 1 "10k" V 2682 3561 40  0000 L CNN
 F 2 "Capacitors_SMD:c_1206" V 2580 3450 30  0001 C CNN
-F 3 "" H 2675 3560 30  0000 C CNN
+F 3 "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ8GEYJ103V+7+WW" H 7125 5260 30  0001 C CNN
+F 4 "Panasonic" H 3500 3550 60  0001 C CNN "Manufacturer"
+F 5 "ERJ-8GEYJ103V" H 3500 3550 60  0001 C CNN "Part Number"
+F 6 "P10KECT-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "667-ERJ-8GEYJ103V" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    2650 3450
 	1    0    0    -1  
 $EndComp
@@ -445,7 +476,11 @@ P 2650 4100
 F 0 "R10" V 2615 4005 40  0000 R CNN
 F 1 "10k" V 2682 4211 40  0000 L CNN
 F 2 "Capacitors_SMD:c_1206" V 2580 4100 30  0001 C CNN
-F 3 "" H 2675 4210 30  0000 C CNN
+F 3 "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ8GEYJ103V+7+WW" H 7125 5260 30  0001 C CNN
+F 4 "Panasonic" H 3500 3550 60  0001 C CNN "Manufacturer"
+F 5 "ERJ-8GEYJ103V" H 3500 3550 60  0001 C CNN "Part Number"
+F 6 "P10KECT-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "667-ERJ-8GEYJ103V" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    2650 4100
 	1    0    0    -1  
 $EndComp

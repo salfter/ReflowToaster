@@ -260,9 +260,11 @@ P 4400 4200
 F 0 "Q1" V 4200 4350 60  0000 R CNN
 F 1 "FDN340P" V 4550 4400 60  0000 R CNN
 F 2 "ReflowToaster:FDN340P" H 4400 5150 60  0001 C CNN
-F 3 "http://datasheet.octopart.com/FDN340P-Fairchild-datasheet-31668.pdf" H 4400 5250 60  0001 C CNN
+F 3 "http://www.fairchildsemi.com/datasheets/FD/FDN340P.pdf" H 4400 5250 60  0001 C CNN
 F 4 "Fairchild" H 4400 5350 60  0001 C CNN "Manufacturer"
 F 5 "FDN340P" H 4400 5450 60  0001 C CNN "Part Number"
+F 6 "FDN340PCT-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 7 "512-FDN340P" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    4400 4200
 	0    -1   1    0   
 $EndComp
