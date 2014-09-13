@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Thu 11 Sep 2014 08:18:31 PM PDT
+Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Fri 12 Sep 2014 08:00:54 PM PDT
 
 BeginCmp
 TimeStamp = /541144C4/54115665;
@@ -8,44 +8,58 @@ IdModule  = ReflowToaster:CX-0905C;
 EndCmp
 
 BeginCmp
-TimeStamp = /540E7838/540E8D92;
+TimeStamp = /540E7838/540F6784;
 Reference = C1;
 ValeurCmp = 1uF;
 IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
 BeginCmp
-TimeStamp = /540E7838/540F2F1E;
+TimeStamp = /540E7838/540F6815;
 Reference = C2;
-ValeurCmp = 0.1uF;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E7838/540E8D92;
+Reference = C3;
+ValeurCmp = 1uF;
 IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /540E7838/540E8B06;
-Reference = C3;
-ValeurCmp = 0.1uF;
-IdModule  = Capacitors_SMD:c_1206;
-EndCmp
-
-BeginCmp
-TimeStamp = /540E7838/540F2AB3;
 Reference = C4;
 ValeurCmp = 0.1uF;
 IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
 BeginCmp
-TimeStamp = /540E7838/540F6815;
+TimeStamp = /540E7838/540F2F1E;
 Reference = C5;
-ValeurCmp = 1uF;
+ValeurCmp = 0.1uF;
 IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
 BeginCmp
-TimeStamp = /540E7838/540F6784;
+TimeStamp = /540E7838/540F2AB3;
 Reference = C6;
-ValeurCmp = 1uF;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /540FBA95/541074BF;
+Reference = C7;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /540FBA95/54107549;
+Reference = C8;
+ValeurCmp = 0.1uF;
 IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
@@ -57,29 +71,15 @@ IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
 BeginCmp
-TimeStamp = /540FBA95/541074BF;
+TimeStamp = /540FBA95/54106D7A;
 Reference = C10;
 ValeurCmp = 0.1uF;
 IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
 BeginCmp
-TimeStamp = /540FBA95/54107549;
-Reference = C11;
-ValeurCmp = 0.1uF;
-IdModule  = Capacitors_SMD:c_1206;
-EndCmp
-
-BeginCmp
-TimeStamp = /540FBA95/54106D7A;
-Reference = C12;
-ValeurCmp = 0.1uF;
-IdModule  = Capacitors_SMD:c_1206;
-EndCmp
-
-BeginCmp
 TimeStamp = /540FBA95/54107DF0;
-Reference = C13;
+Reference = C11;
 ValeurCmp = 0.01uF;
 IdModule  = Capacitors_SMD:c_1206;
 EndCmp
@@ -92,6 +92,13 @@ IdModule  = Capacitors_SMD:c_1812;
 EndCmp
 
 BeginCmp
+TimeStamp = /540F90B7;
+Reference = J1;
+ValeurCmp = USB-Micro-B;
+IdModule  = ReflowToaster:FCI_10118192-0001LF;
+EndCmp
+
+BeginCmp
 TimeStamp = /540F7F5E;
 Reference = J2;
 ValeurCmp = USB-Micro-B;
@@ -99,9 +106,9 @@ IdModule  = ReflowToaster:FCI_10118192-0001LF;
 EndCmp
 
 BeginCmp
-TimeStamp = /540F90B7;
+TimeStamp = /540FBA95/5410AC42;
 Reference = J3;
-ValeurCmp = USB-Micro-B;
+ValeurCmp = CONN_01X02;
 IdModule  = ReflowToaster:FCI_10118192-0001LF;
 EndCmp
 
@@ -110,13 +117,6 @@ TimeStamp = /541144C4/54114A6B;
 Reference = J4;
 ValeurCmp = CONN_02X05;
 IdModule  = Pin_Headers:Pin_Header_Straight_2x05;
-EndCmp
-
-BeginCmp
-TimeStamp = /540FBA95/5410AC42;
-Reference = J7;
-ValeurCmp = CONN_01X02;
-IdModule  = ReflowToaster:282836-2;
 EndCmp
 
 BeginCmp
@@ -183,108 +183,108 @@ IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
 BeginCmp
-TimeStamp = /540E7838/540E83F6;
+TimeStamp = /540E7838/540E7B32;
 Reference = R3;
 ValeurCmp = 10k;
 IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
 BeginCmp
-TimeStamp = /540E7838/540E7B32;
+TimeStamp = /540E7838/540E83F6;
 Reference = R4;
 ValeurCmp = 10k;
 IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
 BeginCmp
-TimeStamp = /541144C4/54114DE5;
-Reference = R5;
-ValeurCmp = 1k;
-IdModule  = Capacitors_SMD:c_1206;
-EndCmp
-
-BeginCmp
-TimeStamp = /541144C4/5411310D;
-Reference = R6;
-ValeurCmp = 10k;
-IdModule  = ReflowToaster:3319P-1-103;
-EndCmp
-
-BeginCmp
-TimeStamp = /541144C4/5411526E;
-Reference = R7;
-ValeurCmp = 10k;
-IdModule  = Capacitors_SMD:c_1206;
-EndCmp
-
-BeginCmp
-TimeStamp = /541144C4/54115058;
-Reference = R8;
-ValeurCmp = 47k;
-IdModule  = Capacitors_SMD:c_1206;
-EndCmp
-
-BeginCmp
 TimeStamp = /541144C4/54114022;
-Reference = R9;
+Reference = R5;
 ValeurCmp = 10k;
 IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /541144C4/541140C9;
-Reference = R10;
+Reference = R6;
+ValeurCmp = 10k;
+IdModule  = ReflowToaster:3319P-1-103;
+EndCmp
+
+BeginCmp
+TimeStamp = /541144C4/54114DE5;
+Reference = R7;
+ValeurCmp = 1k;
+IdModule  = Capacitors_SMD:c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /541144C4/5411310D;
+Reference = R8;
 ValeurCmp = 10k;
 IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
 BeginCmp
-TimeStamp = /540E7838/540E78F9;
-Reference = U1;
-ValeurCmp = ATMEGA32U4-A;
-IdModule  = SMD_Packages:TQFP-44;
+TimeStamp = /541144C4/5411526E;
+Reference = R9;
+ValeurCmp = 10k;
+IdModule  = Capacitors_SMD:c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /541144C4/54115058;
+Reference = R10;
+ValeurCmp = 47k;
+IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /540E7838/540F663F;
-Reference = U2;
+Reference = U1;
 ValeurCmp = MCP1700T-3302E/TT;
+IdModule  = SMD_Packages:TQFP-44;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E7838/540E78F9;
+Reference = U2;
+ValeurCmp = ATMEGA32U4-A;
 IdModule  = SMD_Packages:SOT-23;
 EndCmp
 
 BeginCmp
-TimeStamp = /541144C4/54111EAD;
+TimeStamp = /540FBA95/54106E70;
 Reference = U3;
-ValeurCmp = LCD8X2;
+ValeurCmp = 74LVC1T45;
 IdModule  = ReflowToaster:LCD_8x2;
 EndCmp
 
 BeginCmp
 TimeStamp = /540FBA95/5410697C;
-Reference = U5;
+Reference = U4;
 ValeurCmp = 74LVC2G34;
 IdModule  = SMD_Packages:SOT-23-6;
 EndCmp
 
 BeginCmp
-TimeStamp = /540FBA95/54106E70;
-Reference = U6;
-ValeurCmp = 74LVC1T45;
+TimeStamp = /540FBA95/540FF176;
+Reference = U5;
+ValeurCmp = MAX31855KASA+;
 IdModule  = SMD_Packages:SOT-23-6;
 EndCmp
 
 BeginCmp
-TimeStamp = /540FBA95/540FF176;
-Reference = U7;
-ValeurCmp = MAX31855KASA+;
-IdModule  = SMD_Packages:SOIC-8-N;
+TimeStamp = /540FBA95/541078A5;
+Reference = U6;
+ValeurCmp = NUP2105L;
+IdModule  = SMD_Packages:SOT-23-6;
 EndCmp
 
 BeginCmp
-TimeStamp = /540FBA95/541078A5;
-Reference = U8;
-ValeurCmp = NUP2105L;
-IdModule  = SMD_Packages:SOT-23;
+TimeStamp = /541144C4/54111EAD;
+Reference = U7;
+ValeurCmp = LCD8X2;
+IdModule  = SMD_Packages:SOIC-8-N;
 EndCmp
 
 BeginCmp
