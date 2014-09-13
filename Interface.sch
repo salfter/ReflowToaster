@@ -106,7 +106,7 @@ F 2 "Capacitors_SMD:c_1206" H 5080 2250 30  0001 C CNN
 F 3 "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ8GEYJ102V+7+WW" H 7125 5260 30  0001 C CNN
 F 4 "Panasonic" H 3500 3550 60  0001 C CNN "Manufacturer"
 F 5 "ERJ-8GEYJ102V" H 3500 3550 60  0001 C CNN "Part Number"
-F 6 "P1KECT-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
+F 6 "P1.0KECT-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
 F 7 "667-ERJ-8GEYJ102V" H 0   0   50  0001 C CNN "Mouser P/N"
 	1    5150 2250
 	0    1    1    0   
@@ -213,7 +213,7 @@ F 4 "CUI" H 8900 1950 60  0001 C CNN "Manufacturer"
 F 5 "CX-0905C" H 8900 1950 60  0001 C CNN "Part Number"
 F 6 "102-1285-ND" H 0   0   50  0001 C CNN "DigiKey P/N"
 F 7 "254-EMB105-RO" H 0   0   50  0001 C CNN "Mouser P/N"
-F 8 "sub Kobitone 254-EMB105-RO when ordering from Mouser" H 0 0 50 0001 C CNN "Note"
+F 8 "sub Kobitone 254-EMB105-RO when ordering from Mouser" H 0   0   50  0001 C CNN "Note"
 	1    8900 1950
 	1    0    0    -1  
 $EndComp
