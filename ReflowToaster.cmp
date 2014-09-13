@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Fri 12 Sep 2014 08:00:54 PM PDT
+Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Fri 12 Sep 2014 08:36:39 PM PDT
 
 BeginCmp
 TimeStamp = /541144C4/54115665;
@@ -109,7 +109,7 @@ BeginCmp
 TimeStamp = /540FBA95/5410AC42;
 Reference = J3;
 ValeurCmp = CONN_01X02;
-IdModule  = ReflowToaster:FCI_10118192-0001LF;
+IdModule  = ReflowToaster:282836-2;
 EndCmp
 
 BeginCmp
@@ -117,6 +117,20 @@ TimeStamp = /541144C4/54114A6B;
 Reference = J4;
 ValeurCmp = CONN_02X05;
 IdModule  = Pin_Headers:Pin_Header_Straight_2x05;
+EndCmp
+
+BeginCmp
+TimeStamp = /541144C4/5413BC75;
+Reference = J5;
+ValeurCmp = CONN_02X08;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /541144C4/5413BD18;
+Reference = J6;
+ValeurCmp = CONN_02X08;
+IdModule  = ;
 EndCmp
 
 BeginCmp
@@ -207,7 +221,7 @@ BeginCmp
 TimeStamp = /541144C4/541140C9;
 Reference = R6;
 ValeurCmp = 10k;
-IdModule  = ReflowToaster:3319P-1-103;
+IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
 BeginCmp
@@ -221,7 +235,7 @@ BeginCmp
 TimeStamp = /541144C4/5411310D;
 Reference = R8;
 ValeurCmp = 10k;
-IdModule  = Capacitors_SMD:c_1206;
+IdModule  = ReflowToaster:3319P-1-103;
 EndCmp
 
 BeginCmp
@@ -242,21 +256,21 @@ BeginCmp
 TimeStamp = /540E7838/540F663F;
 Reference = U1;
 ValeurCmp = MCP1700T-3302E/TT;
-IdModule  = SMD_Packages:TQFP-44;
+IdModule  = SMD_Packages:SOT-23;
 EndCmp
 
 BeginCmp
 TimeStamp = /540E7838/540E78F9;
 Reference = U2;
 ValeurCmp = ATMEGA32U4-A;
-IdModule  = SMD_Packages:SOT-23;
+IdModule  = SMD_Packages:TQFP-44;
 EndCmp
 
 BeginCmp
 TimeStamp = /540FBA95/54106E70;
 Reference = U3;
 ValeurCmp = 74LVC1T45;
-IdModule  = ReflowToaster:LCD_8x2;
+IdModule  = SMD_Packages:SOT-23-6;
 EndCmp
 
 BeginCmp
@@ -270,21 +284,21 @@ BeginCmp
 TimeStamp = /540FBA95/540FF176;
 Reference = U5;
 ValeurCmp = MAX31855KASA+;
-IdModule  = SMD_Packages:SOT-23-6;
+IdModule  = SMD_Packages:SOIC-8-N;
 EndCmp
 
 BeginCmp
 TimeStamp = /540FBA95/541078A5;
 Reference = U6;
 ValeurCmp = NUP2105L;
-IdModule  = SMD_Packages:SOT-23-6;
+IdModule  = SMD_Packages:SOT-23;
 EndCmp
 
 BeginCmp
 TimeStamp = /541144C4/54111EAD;
 Reference = U7;
 ValeurCmp = LCD8X2;
-IdModule  = SMD_Packages:SOIC-8-N;
+IdModule  = ReflowToaster:LCD_8x2;
 EndCmp
 
 BeginCmp

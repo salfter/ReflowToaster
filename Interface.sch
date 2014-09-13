@@ -515,4 +515,46 @@ Wire Wire Line
 Wire Wire Line
 	2700 3800 2650 3800
 Connection ~ 2650 3800
+$Comp
+L CONN_02X08 J5
+U 1 1 5413BC75
+P 1500 1550
+F 0 "J5" H 1500 2000 50  0000 C CNN
+F 1 "CONN_02X08" V 1500 1550 50  0000 C CNN
+F 2 "" H 1500 350 60  0000 C CNN
+F 3 "http://www.sullinscorp.com/drawings/78_P(N)PxCxxxLFBN-RC,_10492-G.pdf" H 1500 350 60  0001 C CNN
+F 4 "Sullins" H 1500 1550 60  0001 C CNN "Manufacturer"
+F 5 "PPTC082LFBN-RC" H 1500 1550 60  0001 C CNN "Part Number"
+F 6 "S7076-ND" H 1500 1550 60  0001 C CNN "DigiKey P/N"
+F 7 "649-76342-408LF" H 1500 1550 60  0001 C CNN "Mouser P/N"
+F 8 "Do Not Place - part included for BOM generation; sub FCI 76342-408LF when ordering from Mouser" H 1500 1550 60  0001 C CNN "Note"
+	1    1500 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_02X08 J6
+U 1 1 5413BD18
+P 2100 1550
+F 0 "J6" H 2100 2000 50  0000 C CNN
+F 1 "CONN_02X08" V 2100 1550 50  0000 C CNN
+F 2 "" H 2100 350 60  0000 C CNN
+F 3 "http://harwin.com/includes/pdfs/M20-976.pdf" H 2100 350 60  0001 C CNN
+F 4 "Harwin" H 2100 1550 60  0001 C CNN "Manufacturer"
+F 5 "M20-9760842" H 2100 1550 60  0001 C CNN "Part Number"
+F 6 "952-1817-ND" H 2100 1550 60  0001 C CNN "DigiKey P/N"
+F 7 "855-M20-9760842" H 2100 1550 60  0001 C CNN "Mouser P/N"
+F 8 "Do Not Place - part included for BOM generation" H 2100 1550 60  0001 C CNN "Note"
+	1    2100 1550
+	1    0    0    -1  
+$EndComp
+Wire Notes Line
+	850  700  2700 700 
+Wire Notes Line
+	2700 700  2700 2050
+Wire Notes Line
+	2700 2050 850  2050
+Wire Notes Line
+	850  2050 850  700 
+Text Notes 1300 950  0    100  ~ 0
+Do Not Place
 $EndSCHEMATC

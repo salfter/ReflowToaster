@@ -1,0 +1,11 @@
+(module MountingHole_2mm (layer F.Cu) (tedit 5413C20D)
+  (descr "Mounting hole, Befestigungsbohrung, 2,5mm, No Annular, Kein Restring,")
+  (tags "Mounting hole, Befestigungsbohrung, 2,5mm, No Annular, Kein Restring,")
+  (fp_text reference MH (at 0 -3.50012) (layer F.SilkS)
+    (effects (font (thickness 0.3048)))
+  )
+  (fp_text value MountingHole_2mm (at 0.09906 3.59918) (layer F.SilkS) hide
+    (effects (font (thickness 0.3048)))
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 2 2) (drill 2) (layers *.Cu *.Mask F.SilkS))
+)
